@@ -1,0 +1,54 @@
+.root{
+    -fx-background-color: #1f5969;
+}
+.label{
+    -fx-font-size: 25px;
+    -fx-font-family:Arial;
+    -fx-text-fill: #ffffff;
+}
+
+.button{
+    -fx-background-color: #5d8498;
+    -fx-text-fill: #ffffff;
+    -fx-font-size: 15px;
+}
+#warning{
+    -fx-font-size: 20px;
+    -fx-text-fill: #de3636;
+}
+.menu-item{
+    -fx-background-color: #5d8498;
+}
+
+#infoLabel{
+   -fx-font-size: 20px;
+}
+.check-box{
+    -fx-text-fill: #ffffff;
+    -fx-font-size: 20px;
+}
+
+.menu-bar{
+    -fx-background-color: #5d8498;
+}
+.tool-bar{
+    -fx-background-color: #5d8498;
+}
+.table-view.column-header{
+    -fx-font-size: 10px;
+}
+#welcomeLabel{
+    -fx-font-size:35px;
+}
+#infoPane{
+    -fx-background-color: #718c99;
+    -fx-background-radius: 10;
+}
+#warningLabel{
+    -fx-font-size:15px;
+    -fx-text-fill: #ff0000;
+}
+#contentLabel{
+    -fx-font-size: 15px;
+    -fx-text-fill: #ffffff;
+}
